@@ -39,6 +39,7 @@ namespace Heron
             Console.Write(Math.Sqrt(result));
             Console.WriteLine(" m²");
             Console.WriteLine("Medida do semiperímetro = " + semiperímetrofinal);
+            Console.ReadKey();
             Console.ForegroundColor = ConsoleColor.Gray;
 
 
